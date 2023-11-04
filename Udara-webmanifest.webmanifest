@@ -1,0 +1,53 @@
+{
+    "name": "Udara",
+    "short_name": "Udara",
+    "start_url": "https://udara.or.id/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1a73e8",
+    "description": "Udara  merupakan blog yang memberitakan tentang perkembangan kesehatan,antariksa,bumi,animasi,teknologi,blockchain,crypto,bitcoin,politik,ekonomi,bisnis,nft,tutorial,android,apple,iphone,khasiat,perawatan,game",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKYq3ja3hkDBhnHU903_4szLg54XBT-9glXaLcp7G8VbO78OCan0e4689IaGKagkAQ_H7WrnuE05DMcifKbeGXZuRJOrnuikY4pn5gBEdbUBzm-S-e8e_5QdMFpZ_7zmPvIUM9sM9SSOSN3PDsIKPeatd1l43LJrJ9kggzT8o9H_EFQMZzecZnbyi0lmbh/s1600/logo%2036x36.png' rel='apple-touch-icon",
+            "sizes": "36x36",
+            "type": "image/png",
+            "density": "0.75"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwmwTAmcK966wcfGBIrDBiD0QDr7kDg9aLWXflx5K6qXLTk4Gzj2vyk6BnWbj_yeauBykfANhGxqIreF37zJYp8jaARXQANwFwBhesSrqm6kMpleeKH69qqVYKoxktFCaBRXF2irzFMpZxwm52Fnn6QCqVe2bj21d7QqqQo6FyM7wqsUMtmuEkWJKAeGtv/s1600/Logo%2048x48.png' rel='apple-touch-icon",
+            "sizes": "48x48",
+            "type": "image/png",
+            "density": "1.0"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgITL6dkPCZJUgz8LOH3d0hZPkyXFYnsdWq2RtB-VvTOfHHklVFAoYBsxQ5vtBNNQqLGKax978ByXOgoM6JVLYSpaEXYhTuDJ6oixwDZ6fLiuC06R0kx6d0Bhsdvuo21HwVnFKFCZWJ6shYWxPfVhDMLnlTOTV-N19OjZHQkC3jnU0hD28yJWm5zCb6yaW_/s1600/Logo%2072x72.png' rel='apple-touch-icon",
+            "sizes": "72x72",
+            "type": "image/png",
+            "density": "1.5"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycifaoeDTXrvwpBbcG31ofMOiKvtD6XxhR0RqIqjmOFU50LhKwHEnso6jNI4W2jp2Z5XhyiL78YdwopF-CeueBcm4NtISEX5KXvt4mnj8B7u5elv-O8YWMbHN2u3qvZ1PhDI3hhy6QQ0QLfEQKCr1n7nmIDwJIaHRU3ALYDihoF6X6xiBYaD7Wk-DuIVL/s1600/Logo%2096x96.png' rel='apple-touch-icon",
+            "sizes": "96x96",
+            "type": "image/png",
+            "density": "2.0"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdT6BxjxuJf-dr8__W-4n5QNY9NCPek4m9x5wb81twRotEAXxJijmfgCmmvgbP7kVhVFtGZvIAzD6owo9jrnlhf1Kj4S_ZhPtgnvC0skdnbhmKk6-y3NZI7DgE2-fYSA3_KtWeExuY92kPIogOfNsJjw7W8-0wSXqTzjLpi6vt4ggXuvK2l4-3_r5ZYZWb/s1600/Logo%20144x144.png' rel='apple-touch-icon",
+            "sizes": "144x144",
+            "type": "image/png",
+            "density": "3.0"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-RHlpfjfZJKQARKD7RWyZX8EnKRkYz7hW04xGBBAxemdvtDZy7bB7-bTeNwIfxpW2pfBCOKhiHUBGRojLX264QwTKEK0dA_HkKNLDFV8mvacaR8rvGTRlPFPFt8wpRfRpdNN0OZ-BH0IfeXCz_pu99VNz46mPFpXYwrizprWDDd8P9DXxBprniZCHK4TZ/s1600/Logo%20192x192.png' rel='apple-touch-icon",
+            "sizes": "192x192",
+            "type": "image/png",
+            "density": "4.0"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkwcv9rfV5tykGKQ7jCMWu3DGZZe3KgCEsJQQOPYOMdwAMQusUxz643GdtaEYT3sJeRE03Eb_dAgR1Jpjfj1y20ddj_nO0kQr7MBD5xL1UsFORErjZP4RxwcgsiRqYjBLSf7vcOaAQuu2ocD9XUNww1mUqOojPPys4e7OHSpPVI4tAQVjIWW51M9h5nc_d/s320/logo512X512.png' rel='apple-touch-icon",
+            "sizes": "512x512",
+            "type": "image/png",
+            "density": "5.0"
+        }
+    ]
+}
